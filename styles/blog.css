@@ -6,3 +6,7 @@ div{
     box-shadow: lightgreen 10px 20px 30px;
     
 }
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
